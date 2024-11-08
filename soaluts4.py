@@ -3,10 +3,11 @@ Nama    : Vina Nur Nisa
 NIM     : 2408200
 Kelas   : RPL 1B
 
-SOAL UTS 4
 """
 
 nim = int(input("Input 3 digit NIM terakhir : "))
+
+print("Ini adalah kelas sesuai NIM")
 
 if nim % 2 == 0:
     if 1 <= nim <= 50:
