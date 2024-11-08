@@ -26,4 +26,3 @@ else:
         print("Silakan masuk ke kelas K5")
     else:
         print("Silakan masuk ke kelas K7")
-    
